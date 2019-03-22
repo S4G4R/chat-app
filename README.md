@@ -42,4 +42,4 @@ This project was built in 4 days with no prior knowledge of building Android App
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
