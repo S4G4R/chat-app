@@ -1,4 +1,4 @@
-# Movies and TV Shows Tracker
+# Simple Chat Application
 
 ![pic](cover.png)
 
